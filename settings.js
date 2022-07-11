@@ -19,13 +19,13 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.owner = ['27686881509'] //Owner number in alive msg
+global.premium = ['27686881509'] //Owner number in info
+global.ownernomer = '27686881509' // Owner number <<<
+global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner name
+global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot name
+global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.'
+global.ig = 'https://github.com/CYBERXKID'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
