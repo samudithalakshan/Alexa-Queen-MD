@@ -49,13 +49,5 @@ PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE 
 <a href="https://github.com/CYBERXKID/Alexa-Queen-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CYBERXKID/Alexa-Queen-MD?color=blue&style=flat-trangle"></a>
 </p>
 
-[💻Alexa Queen is an MDBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-THANK YOU!🙏]
-
 
 **[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27686881509?text=Can%20you%20help%20bro)*
