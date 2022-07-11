@@ -19,22 +19,22 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509'] //Owner number in alive msg
-global.premium = ['27686881509'] //Owner number in info
-global.ownernomer = '27686881509' // Owner number <<<
-global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner name
-global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot name
+global.owner = ['27686881509'] //Owner Number in alive msg
+global.premium = ['27686881509'] //Owner Number in info
+global.ownernomer = '27686881509' // Owner Number <<<
+global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
+global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
 global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.'
 global.ig = 'https://github.com/CYBERXKID'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/CYBERXKID/Alexa-Queen-MD'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
-global.mess = {
+global.packname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Pacage Name
+global.author = '👩‍💻CYBERXKID👩‍💻' //Author Name
+global.sessionName = 'session' //Session Name!
+global.prefa = ['','!','.','👩‍💻','📱','❤️']
+global.sp = '⭔' //A Charactor
+global.mess = {// CUSTOMIZE WITH YOUR LANGUAGE
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
