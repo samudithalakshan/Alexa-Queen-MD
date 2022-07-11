@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Pacage Name
 global.author = '👩‍💻CYBERXKID👩‍💻' //Author Name
 global.sessionName = 'session' //Session Name!
-global.prefa = ['','!','.','👩‍💻','📱','❤️']
+global.prefa = ['','!','.','👩‍💻','📱','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '⭔' //A Charactor
 global.mess = {// CUSTOMIZE WITH YOUR LANGUAGE
     success: 'Done ✓',
