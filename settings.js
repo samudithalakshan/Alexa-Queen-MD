@@ -30,7 +30,7 @@ global.ownername = '👩‍💻𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳🧚‍♂️
 global.botname = ' 🧚‍♂️𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽🧚‍♂️' //Bot Name
 
 global.button = '📱Youtube📱' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UC4oTs5DILGmK1EglJ5XlyZw' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
