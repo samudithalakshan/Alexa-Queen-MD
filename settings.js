@@ -1,7 +1,7 @@
-//═══════════════════════════════════════════════════════//
+//═════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//             ALEXA QUEEN V6.0.2                 
+// 
 //
 //════════════════════════════//
 
@@ -37,12 +37,12 @@ global.sp = '⭔' //A Charactor
 global.mess = {// CUSTOMIZE WITH YOUR LANGUAGE
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    botAdmin: 'Bot Must Be Admin First😭',
+    owner: 'This Feature Is Only For Owner!😏',
     group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    private: 'Features Used Only For Private Chat🤕!',
+    bot: 'This Feature Is Only For Bot🥴',
+    wait: '👉👈Please Wait...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
