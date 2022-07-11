@@ -24,7 +24,7 @@ global.premium = ['27686881509'] //Owner Number in info
 global.ownernomer = '27686881509' // Owner Number <<<
 global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
 global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
-global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.'
+global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.' //In List Menu
 global.ig = 'https://github.com/CYBERXKID'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/CYBERXKID/Alexa-Queen-MD'
@@ -37,7 +37,7 @@ global.sp = '⭔' //A Charactor
 global.mess = {// CUSTOMIZE WITH YOUR LANGUAGE
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First😭',
+    botAdmin: 'Bot Want To Be Admin😭',
     owner: 'This Feature Is Only For Owner!😏',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat🤕!',
