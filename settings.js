@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509'] //Owner Number in alive msg
-global.premium = ['27686881509'] //Owner Number in info
-global.ownernomer = '27686881509' // Owner Number <<<
-global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
-global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
+global.owner = ['94778200280'] //Owner Number in alive msg
+global.premium = ['94778200280'] //Owner Number in info
+global.ownernomer = '94778200280' // Owner Number <<<
+global.ownername = '👩‍💻MASTER BLACK👩‍💻' //Owner Name
+global.botname = '⚔️MASTER BLACK⚔️' //Bot Name
 global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.' //In List Menu
 global.ig = 'https://github.com/CYBERXKID'
 global.region = 'India, South India, Kerala'
